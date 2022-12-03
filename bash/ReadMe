@@ -1,0 +1,2 @@
+Exec_V5.sh: Used for reads generation and contig assembly at Carbonate.
+Augustus_exe_s.sh, Augustus_exe_p.sh: Used for gene prediction at local.
