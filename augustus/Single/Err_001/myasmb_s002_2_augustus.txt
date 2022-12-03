@@ -1,0 +1,1871 @@
+# This output was generated with AUGUSTUS (version 3.4.0).
+# AUGUSTUS is a gene prediction tool written by M. Stanke (mario.stanke@uni-greifswald.de),
+# O. Keller, S. König, L. Gerischer, L. Romoth and Katharina Hoff.
+# Please cite: Mario Stanke, Mark Diekhans, Robert Baertsch, David Haussler (2008),
+# Using native and syntenically mapped cDNA alignments to improve de novo gene finding
+# Bioinformatics 24: 637-644, doi 10.1093/bioinformatics/btn013
+# No extrinsic information on sequences given.
+# Sources of extrinsic information: M RM 
+# Initializing the parameters using config directory /usr/share/augustus/config/ ...
+# human version. Using species specific transition matrix: /usr/share/augustus/config/species/human/human_trans_shadow_partial_utr.pbl
+# Looks like myasmb_s002_2.contig is in fasta format.
+# We have hints for 0 sequences and for 0 of the sequences in the input set.
+#
+# ----- prediction on sequence number 1 (length = 24, name = 1) -----
+#
+# Predicted genes for sequence number 1 on both strands
+# (none)
+#
+# ----- prediction on sequence number 2 (length = 24, name = 3) -----
+#
+# Predicted genes for sequence number 2 on both strands
+# (none)
+#
+# ----- prediction on sequence number 3 (length = 24, name = 5) -----
+#
+# Predicted genes for sequence number 3 on both strands
+# (none)
+#
+# ----- prediction on sequence number 4 (length = 24, name = 7) -----
+#
+# Predicted genes for sequence number 4 on both strands
+# (none)
+#
+# ----- prediction on sequence number 5 (length = 24, name = 9) -----
+#
+# Predicted genes for sequence number 5 on both strands
+# (none)
+#
+# ----- prediction on sequence number 6 (length = 24, name = 11) -----
+#
+# Predicted genes for sequence number 6 on both strands
+# (none)
+#
+# ----- prediction on sequence number 7 (length = 24, name = 13) -----
+#
+# Predicted genes for sequence number 7 on both strands
+# (none)
+#
+# ----- prediction on sequence number 8 (length = 24, name = 15) -----
+#
+# Predicted genes for sequence number 8 on both strands
+# (none)
+#
+# ----- prediction on sequence number 9 (length = 24, name = 17) -----
+#
+# Predicted genes for sequence number 9 on both strands
+# (none)
+#
+# ----- prediction on sequence number 10 (length = 25, name = 19) -----
+#
+# Predicted genes for sequence number 10 on both strands
+# (none)
+#
+# ----- prediction on sequence number 11 (length = 25, name = 21) -----
+#
+# Predicted genes for sequence number 11 on both strands
+# (none)
+#
+# ----- prediction on sequence number 12 (length = 25, name = 23) -----
+#
+# Predicted genes for sequence number 12 on both strands
+# (none)
+#
+# ----- prediction on sequence number 13 (length = 25, name = 25) -----
+#
+# Predicted genes for sequence number 13 on both strands
+# (none)
+#
+# ----- prediction on sequence number 14 (length = 25, name = 27) -----
+#
+# Predicted genes for sequence number 14 on both strands
+# (none)
+#
+# ----- prediction on sequence number 15 (length = 25, name = 29) -----
+#
+# Predicted genes for sequence number 15 on both strands
+# (none)
+#
+# ----- prediction on sequence number 16 (length = 25, name = 31) -----
+#
+# Predicted genes for sequence number 16 on both strands
+# (none)
+#
+# ----- prediction on sequence number 17 (length = 26, name = 33) -----
+#
+# Predicted genes for sequence number 17 on both strands
+# (none)
+#
+# ----- prediction on sequence number 18 (length = 26, name = 35) -----
+#
+# Predicted genes for sequence number 18 on both strands
+# (none)
+#
+# ----- prediction on sequence number 19 (length = 26, name = 37) -----
+#
+# Predicted genes for sequence number 19 on both strands
+# (none)
+#
+# ----- prediction on sequence number 20 (length = 26, name = 39) -----
+#
+# Predicted genes for sequence number 20 on both strands
+# (none)
+#
+# ----- prediction on sequence number 21 (length = 26, name = 41) -----
+#
+# Predicted genes for sequence number 21 on both strands
+# (none)
+#
+# ----- prediction on sequence number 22 (length = 26, name = 43) -----
+#
+# Predicted genes for sequence number 22 on both strands
+# (none)
+#
+# ----- prediction on sequence number 23 (length = 28, name = 45) -----
+#
+# Predicted genes for sequence number 23 on both strands
+# (none)
+#
+# ----- prediction on sequence number 24 (length = 28, name = 47) -----
+#
+# Predicted genes for sequence number 24 on both strands
+# (none)
+#
+# ----- prediction on sequence number 25 (length = 28, name = 49) -----
+#
+# Predicted genes for sequence number 25 on both strands
+# (none)
+#
+# ----- prediction on sequence number 26 (length = 28, name = 51) -----
+#
+# Predicted genes for sequence number 26 on both strands
+# (none)
+#
+# ----- prediction on sequence number 27 (length = 29, name = 53) -----
+#
+# Predicted genes for sequence number 27 on both strands
+# (none)
+#
+# ----- prediction on sequence number 28 (length = 29, name = 55) -----
+#
+# Predicted genes for sequence number 28 on both strands
+# (none)
+#
+# ----- prediction on sequence number 29 (length = 29, name = 57) -----
+#
+# Predicted genes for sequence number 29 on both strands
+# (none)
+#
+# ----- prediction on sequence number 30 (length = 30, name = 59) -----
+#
+# Predicted genes for sequence number 30 on both strands
+# (none)
+#
+# ----- prediction on sequence number 31 (length = 31, name = 61) -----
+#
+# Predicted genes for sequence number 31 on both strands
+# (none)
+#
+# ----- prediction on sequence number 32 (length = 31, name = 63) -----
+#
+# Predicted genes for sequence number 32 on both strands
+# (none)
+#
+# ----- prediction on sequence number 33 (length = 31, name = 65) -----
+#
+# Predicted genes for sequence number 33 on both strands
+# (none)
+#
+# ----- prediction on sequence number 34 (length = 31, name = 67) -----
+#
+# Predicted genes for sequence number 34 on both strands
+# (none)
+#
+# ----- prediction on sequence number 35 (length = 31, name = 69) -----
+#
+# Predicted genes for sequence number 35 on both strands
+# (none)
+#
+# ----- prediction on sequence number 36 (length = 32, name = 71) -----
+#
+# Predicted genes for sequence number 36 on both strands
+# (none)
+#
+# ----- prediction on sequence number 37 (length = 33, name = 73) -----
+#
+# Predicted genes for sequence number 37 on both strands
+# (none)
+#
+# ----- prediction on sequence number 38 (length = 33, name = 75) -----
+#
+# Predicted genes for sequence number 38 on both strands
+# (none)
+#
+# ----- prediction on sequence number 39 (length = 34, name = 77) -----
+#
+# Predicted genes for sequence number 39 on both strands
+# (none)
+#
+# ----- prediction on sequence number 40 (length = 34, name = 79) -----
+#
+# Predicted genes for sequence number 40 on both strands
+# (none)
+#
+# ----- prediction on sequence number 41 (length = 37, name = 81) -----
+#
+# Predicted genes for sequence number 41 on both strands
+# (none)
+#
+# ----- prediction on sequence number 42 (length = 37, name = 83) -----
+#
+# Predicted genes for sequence number 42 on both strands
+# (none)
+#
+# ----- prediction on sequence number 43 (length = 38, name = 85) -----
+#
+# Predicted genes for sequence number 43 on both strands
+# (none)
+#
+# ----- prediction on sequence number 44 (length = 38, name = 87) -----
+#
+# Predicted genes for sequence number 44 on both strands
+# (none)
+#
+# ----- prediction on sequence number 45 (length = 40, name = 89) -----
+#
+# Predicted genes for sequence number 45 on both strands
+# (none)
+#
+# ----- prediction on sequence number 46 (length = 41, name = 91) -----
+#
+# Predicted genes for sequence number 46 on both strands
+# (none)
+#
+# ----- prediction on sequence number 47 (length = 41, name = 93) -----
+#
+# Predicted genes for sequence number 47 on both strands
+# (none)
+#
+# ----- prediction on sequence number 48 (length = 42, name = 95) -----
+#
+# Predicted genes for sequence number 48 on both strands
+# (none)
+#
+# ----- prediction on sequence number 49 (length = 43, name = 97) -----
+#
+# Predicted genes for sequence number 49 on both strands
+# (none)
+#
+# ----- prediction on sequence number 50 (length = 43, name = 99) -----
+#
+# Predicted genes for sequence number 50 on both strands
+# (none)
+#
+# ----- prediction on sequence number 51 (length = 44, name = 101) -----
+#
+# Predicted genes for sequence number 51 on both strands
+# (none)
+#
+# ----- prediction on sequence number 52 (length = 44, name = 103) -----
+#
+# Predicted genes for sequence number 52 on both strands
+# (none)
+#
+# ----- prediction on sequence number 53 (length = 45, name = 105) -----
+#
+# Predicted genes for sequence number 53 on both strands
+# (none)
+#
+# ----- prediction on sequence number 54 (length = 45, name = 107) -----
+#
+# Predicted genes for sequence number 54 on both strands
+# (none)
+#
+# ----- prediction on sequence number 55 (length = 46, name = 109) -----
+#
+# Predicted genes for sequence number 55 on both strands
+# (none)
+#
+# ----- prediction on sequence number 56 (length = 46, name = 111) -----
+#
+# Predicted genes for sequence number 56 on both strands
+# (none)
+#
+# ----- prediction on sequence number 57 (length = 47, name = 113) -----
+#
+# Predicted genes for sequence number 57 on both strands
+# (none)
+#
+# ----- prediction on sequence number 58 (length = 47, name = 115) -----
+#
+# Predicted genes for sequence number 58 on both strands
+# (none)
+#
+# ----- prediction on sequence number 59 (length = 47, name = 117) -----
+#
+# Predicted genes for sequence number 59 on both strands
+# (none)
+#
+# ----- prediction on sequence number 60 (length = 47, name = 119) -----
+#
+# Predicted genes for sequence number 60 on both strands
+# (none)
+#
+# ----- prediction on sequence number 61 (length = 47, name = 121) -----
+#
+# Predicted genes for sequence number 61 on both strands
+# (none)
+#
+# ----- prediction on sequence number 62 (length = 47, name = 123) -----
+#
+# Predicted genes for sequence number 62 on both strands
+# (none)
+#
+# ----- prediction on sequence number 63 (length = 47, name = 125) -----
+#
+# Predicted genes for sequence number 63 on both strands
+# (none)
+#
+# ----- prediction on sequence number 64 (length = 47, name = 127) -----
+#
+# Predicted genes for sequence number 64 on both strands
+# (none)
+#
+# ----- prediction on sequence number 65 (length = 47, name = 129) -----
+#
+# Predicted genes for sequence number 65 on both strands
+# (none)
+#
+# ----- prediction on sequence number 66 (length = 47, name = 131) -----
+#
+# Predicted genes for sequence number 66 on both strands
+# (none)
+#
+# ----- prediction on sequence number 67 (length = 47, name = 133) -----
+#
+# Predicted genes for sequence number 67 on both strands
+# (none)
+#
+# ----- prediction on sequence number 68 (length = 47, name = 135) -----
+#
+# Predicted genes for sequence number 68 on both strands
+# (none)
+#
+# ----- prediction on sequence number 69 (length = 47, name = 137) -----
+#
+# Predicted genes for sequence number 69 on both strands
+# (none)
+#
+# ----- prediction on sequence number 70 (length = 47, name = 139) -----
+#
+# Predicted genes for sequence number 70 on both strands
+# (none)
+#
+# ----- prediction on sequence number 71 (length = 47, name = 141) -----
+#
+# Predicted genes for sequence number 71 on both strands
+# (none)
+#
+# ----- prediction on sequence number 72 (length = 47, name = 143) -----
+#
+# Predicted genes for sequence number 72 on both strands
+# (none)
+#
+# ----- prediction on sequence number 73 (length = 47, name = 145) -----
+#
+# Predicted genes for sequence number 73 on both strands
+# (none)
+#
+# ----- prediction on sequence number 74 (length = 49, name = 147) -----
+#
+# Predicted genes for sequence number 74 on both strands
+# (none)
+#
+# ----- prediction on sequence number 75 (length = 50, name = 149) -----
+#
+# Predicted genes for sequence number 75 on both strands
+# (none)
+#
+# ----- prediction on sequence number 76 (length = 51, name = 151) -----
+#
+# Predicted genes for sequence number 76 on both strands
+# (none)
+#
+# ----- prediction on sequence number 77 (length = 52, name = 153) -----
+#
+# Predicted genes for sequence number 77 on both strands
+# (none)
+#
+# ----- prediction on sequence number 78 (length = 52, name = 155) -----
+#
+# Predicted genes for sequence number 78 on both strands
+# (none)
+#
+# ----- prediction on sequence number 79 (length = 54, name = 157) -----
+#
+# Predicted genes for sequence number 79 on both strands
+# (none)
+#
+# ----- prediction on sequence number 80 (length = 54, name = 159) -----
+#
+# Predicted genes for sequence number 80 on both strands
+# (none)
+#
+# ----- prediction on sequence number 81 (length = 54, name = 161) -----
+#
+# Predicted genes for sequence number 81 on both strands
+# (none)
+#
+# ----- prediction on sequence number 82 (length = 55, name = 163) -----
+#
+# Predicted genes for sequence number 82 on both strands
+# (none)
+#
+# ----- prediction on sequence number 83 (length = 55, name = 165) -----
+#
+# Predicted genes for sequence number 83 on both strands
+# (none)
+#
+# ----- prediction on sequence number 84 (length = 55, name = 167) -----
+#
+# Predicted genes for sequence number 84 on both strands
+# (none)
+#
+# ----- prediction on sequence number 85 (length = 56, name = 169) -----
+#
+# Predicted genes for sequence number 85 on both strands
+# (none)
+#
+# ----- prediction on sequence number 86 (length = 58, name = 171) -----
+#
+# Predicted genes for sequence number 86 on both strands
+# (none)
+#
+# ----- prediction on sequence number 87 (length = 58, name = 173) -----
+#
+# Predicted genes for sequence number 87 on both strands
+# (none)
+#
+# ----- prediction on sequence number 88 (length = 59, name = 175) -----
+#
+# Predicted genes for sequence number 88 on both strands
+# (none)
+#
+# ----- prediction on sequence number 89 (length = 59, name = 177) -----
+#
+# Predicted genes for sequence number 89 on both strands
+# (none)
+#
+# ----- prediction on sequence number 90 (length = 61, name = 179) -----
+#
+# Predicted genes for sequence number 90 on both strands
+# (none)
+#
+# ----- prediction on sequence number 91 (length = 61, name = 181) -----
+#
+# Predicted genes for sequence number 91 on both strands
+# (none)
+#
+# ----- prediction on sequence number 92 (length = 62, name = 183) -----
+#
+# Predicted genes for sequence number 92 on both strands
+# (none)
+#
+# ----- prediction on sequence number 93 (length = 64, name = 185) -----
+#
+# Predicted genes for sequence number 93 on both strands
+# (none)
+#
+# ----- prediction on sequence number 94 (length = 66, name = 187) -----
+#
+# Predicted genes for sequence number 94 on both strands
+# (none)
+#
+# ----- prediction on sequence number 95 (length = 66, name = 189) -----
+#
+# Predicted genes for sequence number 95 on both strands
+# (none)
+#
+# ----- prediction on sequence number 96 (length = 68, name = 191) -----
+#
+# Predicted genes for sequence number 96 on both strands
+# (none)
+#
+# ----- prediction on sequence number 97 (length = 68, name = 193) -----
+#
+# Predicted genes for sequence number 97 on both strands
+# (none)
+#
+# ----- prediction on sequence number 98 (length = 69, name = 195) -----
+#
+# Predicted genes for sequence number 98 on both strands
+# (none)
+#
+# ----- prediction on sequence number 99 (length = 70, name = 197) -----
+#
+# Predicted genes for sequence number 99 on both strands
+# (none)
+#
+# ----- prediction on sequence number 100 (length = 70, name = 199) -----
+#
+# Predicted genes for sequence number 100 on both strands
+# (none)
+#
+# ----- prediction on sequence number 101 (length = 70, name = 201) -----
+#
+# Predicted genes for sequence number 101 on both strands
+# (none)
+#
+# ----- prediction on sequence number 102 (length = 70, name = 203) -----
+#
+# Predicted genes for sequence number 102 on both strands
+# (none)
+#
+# ----- prediction on sequence number 103 (length = 70, name = 205) -----
+#
+# Predicted genes for sequence number 103 on both strands
+# (none)
+#
+# ----- prediction on sequence number 104 (length = 70, name = 207) -----
+#
+# Predicted genes for sequence number 104 on both strands
+# (none)
+#
+# ----- prediction on sequence number 105 (length = 70, name = 209) -----
+#
+# Predicted genes for sequence number 105 on both strands
+# (none)
+#
+# ----- prediction on sequence number 106 (length = 70, name = 211) -----
+#
+# Predicted genes for sequence number 106 on both strands
+# (none)
+#
+# ----- prediction on sequence number 107 (length = 70, name = 213) -----
+#
+# Predicted genes for sequence number 107 on both strands
+# (none)
+#
+# ----- prediction on sequence number 108 (length = 70, name = 215) -----
+#
+# Predicted genes for sequence number 108 on both strands
+# (none)
+#
+# ----- prediction on sequence number 109 (length = 70, name = 217) -----
+#
+# Predicted genes for sequence number 109 on both strands
+# (none)
+#
+# ----- prediction on sequence number 110 (length = 70, name = 219) -----
+#
+# Predicted genes for sequence number 110 on both strands
+# (none)
+#
+# ----- prediction on sequence number 111 (length = 70, name = 221) -----
+#
+# Predicted genes for sequence number 111 on both strands
+# (none)
+#
+# ----- prediction on sequence number 112 (length = 70, name = 223) -----
+#
+# Predicted genes for sequence number 112 on both strands
+# (none)
+#
+# ----- prediction on sequence number 113 (length = 70, name = 225) -----
+#
+# Predicted genes for sequence number 113 on both strands
+# (none)
+#
+# ----- prediction on sequence number 114 (length = 70, name = 227) -----
+#
+# Predicted genes for sequence number 114 on both strands
+# (none)
+#
+# ----- prediction on sequence number 115 (length = 70, name = 229) -----
+#
+# Predicted genes for sequence number 115 on both strands
+# (none)
+#
+# ----- prediction on sequence number 116 (length = 70, name = 231) -----
+#
+# Predicted genes for sequence number 116 on both strands
+# (none)
+#
+# ----- prediction on sequence number 117 (length = 71, name = 233) -----
+#
+# Predicted genes for sequence number 117 on both strands
+# (none)
+#
+# ----- prediction on sequence number 118 (length = 71, name = 235) -----
+#
+# Predicted genes for sequence number 118 on both strands
+# (none)
+#
+# ----- prediction on sequence number 119 (length = 71, name = 237) -----
+#
+# Predicted genes for sequence number 119 on both strands
+# (none)
+#
+# ----- prediction on sequence number 120 (length = 71, name = 239) -----
+#
+# Predicted genes for sequence number 120 on both strands
+# (none)
+#
+# ----- prediction on sequence number 121 (length = 71, name = 241) -----
+#
+# Predicted genes for sequence number 121 on both strands
+# (none)
+#
+# ----- prediction on sequence number 122 (length = 71, name = 243) -----
+#
+# Predicted genes for sequence number 122 on both strands
+# (none)
+#
+# ----- prediction on sequence number 123 (length = 71, name = 245) -----
+#
+# Predicted genes for sequence number 123 on both strands
+# (none)
+#
+# ----- prediction on sequence number 124 (length = 71, name = 247) -----
+#
+# Predicted genes for sequence number 124 on both strands
+# (none)
+#
+# ----- prediction on sequence number 125 (length = 71, name = 249) -----
+#
+# Predicted genes for sequence number 125 on both strands
+# (none)
+#
+# ----- prediction on sequence number 126 (length = 71, name = 251) -----
+#
+# Predicted genes for sequence number 126 on both strands
+# (none)
+#
+# ----- prediction on sequence number 127 (length = 71, name = 253) -----
+#
+# Predicted genes for sequence number 127 on both strands
+# (none)
+#
+# ----- prediction on sequence number 128 (length = 71, name = 255) -----
+#
+# Predicted genes for sequence number 128 on both strands
+# (none)
+#
+# ----- prediction on sequence number 129 (length = 71, name = 257) -----
+#
+# Predicted genes for sequence number 129 on both strands
+# (none)
+#
+# ----- prediction on sequence number 130 (length = 71, name = 259) -----
+#
+# Predicted genes for sequence number 130 on both strands
+# (none)
+#
+# ----- prediction on sequence number 131 (length = 71, name = 261) -----
+#
+# Predicted genes for sequence number 131 on both strands
+# (none)
+#
+# ----- prediction on sequence number 132 (length = 71, name = 263) -----
+#
+# Predicted genes for sequence number 132 on both strands
+# (none)
+#
+# ----- prediction on sequence number 133 (length = 71, name = 265) -----
+#
+# Predicted genes for sequence number 133 on both strands
+# (none)
+#
+# ----- prediction on sequence number 134 (length = 71, name = 267) -----
+#
+# Predicted genes for sequence number 134 on both strands
+# (none)
+#
+# ----- prediction on sequence number 135 (length = 71, name = 269) -----
+#
+# Predicted genes for sequence number 135 on both strands
+# (none)
+#
+# ----- prediction on sequence number 136 (length = 71, name = 271) -----
+#
+# Predicted genes for sequence number 136 on both strands
+# (none)
+#
+# ----- prediction on sequence number 137 (length = 71, name = 273) -----
+#
+# Predicted genes for sequence number 137 on both strands
+# (none)
+#
+# ----- prediction on sequence number 138 (length = 71, name = 275) -----
+#
+# Predicted genes for sequence number 138 on both strands
+# (none)
+#
+# ----- prediction on sequence number 139 (length = 71, name = 277) -----
+#
+# Predicted genes for sequence number 139 on both strands
+# (none)
+#
+# ----- prediction on sequence number 140 (length = 71, name = 279) -----
+#
+# Predicted genes for sequence number 140 on both strands
+# (none)
+#
+# ----- prediction on sequence number 141 (length = 71, name = 281) -----
+#
+# Predicted genes for sequence number 141 on both strands
+# (none)
+#
+# ----- prediction on sequence number 142 (length = 71, name = 283) -----
+#
+# Predicted genes for sequence number 142 on both strands
+# (none)
+#
+# ----- prediction on sequence number 143 (length = 72, name = 285) -----
+#
+# Predicted genes for sequence number 143 on both strands
+# (none)
+#
+# ----- prediction on sequence number 144 (length = 72, name = 287) -----
+#
+# Predicted genes for sequence number 144 on both strands
+# (none)
+#
+# ----- prediction on sequence number 145 (length = 72, name = 289) -----
+#
+# Predicted genes for sequence number 145 on both strands
+# (none)
+#
+# ----- prediction on sequence number 146 (length = 72, name = 291) -----
+#
+# Predicted genes for sequence number 146 on both strands
+# (none)
+#
+# ----- prediction on sequence number 147 (length = 72, name = 293) -----
+#
+# Predicted genes for sequence number 147 on both strands
+# (none)
+#
+# ----- prediction on sequence number 148 (length = 72, name = 295) -----
+#
+# Predicted genes for sequence number 148 on both strands
+# (none)
+#
+# ----- prediction on sequence number 149 (length = 72, name = 297) -----
+#
+# Predicted genes for sequence number 149 on both strands
+# (none)
+#
+# ----- prediction on sequence number 150 (length = 72, name = 299) -----
+#
+# Predicted genes for sequence number 150 on both strands
+# (none)
+#
+# ----- prediction on sequence number 151 (length = 73, name = 301) -----
+#
+# Predicted genes for sequence number 151 on both strands
+# (none)
+#
+# ----- prediction on sequence number 152 (length = 73, name = 303) -----
+#
+# Predicted genes for sequence number 152 on both strands
+# (none)
+#
+# ----- prediction on sequence number 153 (length = 73, name = 305) -----
+#
+# Predicted genes for sequence number 153 on both strands
+# (none)
+#
+# ----- prediction on sequence number 154 (length = 73, name = 307) -----
+#
+# Predicted genes for sequence number 154 on both strands
+# (none)
+#
+# ----- prediction on sequence number 155 (length = 73, name = 309) -----
+#
+# Predicted genes for sequence number 155 on both strands
+# (none)
+#
+# ----- prediction on sequence number 156 (length = 73, name = 311) -----
+#
+# Predicted genes for sequence number 156 on both strands
+# (none)
+#
+# ----- prediction on sequence number 157 (length = 73, name = 313) -----
+#
+# Predicted genes for sequence number 157 on both strands
+# (none)
+#
+# ----- prediction on sequence number 158 (length = 73, name = 315) -----
+#
+# Predicted genes for sequence number 158 on both strands
+# (none)
+#
+# ----- prediction on sequence number 159 (length = 73, name = 317) -----
+#
+# Predicted genes for sequence number 159 on both strands
+# (none)
+#
+# ----- prediction on sequence number 160 (length = 73, name = 319) -----
+#
+# Predicted genes for sequence number 160 on both strands
+# (none)
+#
+# ----- prediction on sequence number 161 (length = 73, name = 321) -----
+#
+# Predicted genes for sequence number 161 on both strands
+# (none)
+#
+# ----- prediction on sequence number 162 (length = 73, name = 323) -----
+#
+# Predicted genes for sequence number 162 on both strands
+# (none)
+#
+# ----- prediction on sequence number 163 (length = 73, name = 325) -----
+#
+# Predicted genes for sequence number 163 on both strands
+# (none)
+#
+# ----- prediction on sequence number 164 (length = 74, name = 327) -----
+#
+# Predicted genes for sequence number 164 on both strands
+# (none)
+#
+# ----- prediction on sequence number 165 (length = 75, name = 329) -----
+#
+# Predicted genes for sequence number 165 on both strands
+# (none)
+#
+# ----- prediction on sequence number 166 (length = 76, name = 331) -----
+#
+# Predicted genes for sequence number 166 on both strands
+# (none)
+#
+# ----- prediction on sequence number 167 (length = 77, name = 333) -----
+#
+# Predicted genes for sequence number 167 on both strands
+# (none)
+#
+# ----- prediction on sequence number 168 (length = 77, name = 335) -----
+#
+# Predicted genes for sequence number 168 on both strands
+# (none)
+#
+# ----- prediction on sequence number 169 (length = 77, name = 337) -----
+#
+# Predicted genes for sequence number 169 on both strands
+# (none)
+#
+# ----- prediction on sequence number 170 (length = 77, name = 339) -----
+#
+# Predicted genes for sequence number 170 on both strands
+# (none)
+#
+# ----- prediction on sequence number 171 (length = 77, name = 341) -----
+#
+# Predicted genes for sequence number 171 on both strands
+# (none)
+#
+# ----- prediction on sequence number 172 (length = 77, name = 343) -----
+#
+# Predicted genes for sequence number 172 on both strands
+# (none)
+#
+# ----- prediction on sequence number 173 (length = 77, name = 345) -----
+#
+# Predicted genes for sequence number 173 on both strands
+# (none)
+#
+# ----- prediction on sequence number 174 (length = 77, name = 347) -----
+#
+# Predicted genes for sequence number 174 on both strands
+# (none)
+#
+# ----- prediction on sequence number 175 (length = 77, name = 349) -----
+#
+# Predicted genes for sequence number 175 on both strands
+# (none)
+#
+# ----- prediction on sequence number 176 (length = 77, name = 351) -----
+#
+# Predicted genes for sequence number 176 on both strands
+# (none)
+#
+# ----- prediction on sequence number 177 (length = 78, name = 353) -----
+#
+# Predicted genes for sequence number 177 on both strands
+# (none)
+#
+# ----- prediction on sequence number 178 (length = 78, name = 355) -----
+#
+# Predicted genes for sequence number 178 on both strands
+# (none)
+#
+# ----- prediction on sequence number 179 (length = 78, name = 357) -----
+#
+# Predicted genes for sequence number 179 on both strands
+# (none)
+#
+# ----- prediction on sequence number 180 (length = 79, name = 359) -----
+#
+# Predicted genes for sequence number 180 on both strands
+# (none)
+#
+# ----- prediction on sequence number 181 (length = 79, name = 361) -----
+#
+# Predicted genes for sequence number 181 on both strands
+# (none)
+#
+# ----- prediction on sequence number 182 (length = 79, name = 363) -----
+#
+# Predicted genes for sequence number 182 on both strands
+# (none)
+#
+# ----- prediction on sequence number 183 (length = 79, name = 365) -----
+#
+# Predicted genes for sequence number 183 on both strands
+# (none)
+#
+# ----- prediction on sequence number 184 (length = 79, name = 367) -----
+#
+# Predicted genes for sequence number 184 on both strands
+# (none)
+#
+# ----- prediction on sequence number 185 (length = 79, name = 369) -----
+#
+# Predicted genes for sequence number 185 on both strands
+# (none)
+#
+# ----- prediction on sequence number 186 (length = 79, name = 371) -----
+#
+# Predicted genes for sequence number 186 on both strands
+# (none)
+#
+# ----- prediction on sequence number 187 (length = 79, name = 373) -----
+#
+# Predicted genes for sequence number 187 on both strands
+# (none)
+#
+# ----- prediction on sequence number 188 (length = 80, name = 375) -----
+#
+# Predicted genes for sequence number 188 on both strands
+# (none)
+#
+# ----- prediction on sequence number 189 (length = 82, name = 377) -----
+#
+# Predicted genes for sequence number 189 on both strands
+# (none)
+#
+# ----- prediction on sequence number 190 (length = 83, name = 379) -----
+#
+# Predicted genes for sequence number 190 on both strands
+# (none)
+#
+# ----- prediction on sequence number 191 (length = 83, name = 381) -----
+#
+# Predicted genes for sequence number 191 on both strands
+# (none)
+#
+# ----- prediction on sequence number 192 (length = 83, name = 383) -----
+#
+# Predicted genes for sequence number 192 on both strands
+# (none)
+#
+# ----- prediction on sequence number 193 (length = 85, name = 385) -----
+#
+# Predicted genes for sequence number 193 on both strands
+# (none)
+#
+# ----- prediction on sequence number 194 (length = 85, name = 387) -----
+#
+# Predicted genes for sequence number 194 on both strands
+# (none)
+#
+# ----- prediction on sequence number 195 (length = 85, name = 389) -----
+#
+# Predicted genes for sequence number 195 on both strands
+# (none)
+#
+# ----- prediction on sequence number 196 (length = 85, name = 391) -----
+#
+# Predicted genes for sequence number 196 on both strands
+# (none)
+#
+# ----- prediction on sequence number 197 (length = 86, name = 393) -----
+#
+# Predicted genes for sequence number 197 on both strands
+# (none)
+#
+# ----- prediction on sequence number 198 (length = 86, name = 395) -----
+#
+# Predicted genes for sequence number 198 on both strands
+# (none)
+#
+# ----- prediction on sequence number 199 (length = 87, name = 397) -----
+#
+# Predicted genes for sequence number 199 on both strands
+# (none)
+#
+# ----- prediction on sequence number 200 (length = 87, name = 399) -----
+#
+# Predicted genes for sequence number 200 on both strands
+# (none)
+#
+# ----- prediction on sequence number 201 (length = 88, name = 401) -----
+#
+# Predicted genes for sequence number 201 on both strands
+# (none)
+#
+# ----- prediction on sequence number 202 (length = 89, name = 403) -----
+#
+# Predicted genes for sequence number 202 on both strands
+# (none)
+#
+# ----- prediction on sequence number 203 (length = 90, name = 405) -----
+#
+# Predicted genes for sequence number 203 on both strands
+# (none)
+#
+# ----- prediction on sequence number 204 (length = 91, name = 407) -----
+#
+# Predicted genes for sequence number 204 on both strands
+# (none)
+#
+# ----- prediction on sequence number 205 (length = 91, name = 409) -----
+#
+# Predicted genes for sequence number 205 on both strands
+# (none)
+#
+# ----- prediction on sequence number 206 (length = 92, name = 411) -----
+#
+# Predicted genes for sequence number 206 on both strands
+# (none)
+#
+# ----- prediction on sequence number 207 (length = 93, name = 413) -----
+#
+# Predicted genes for sequence number 207 on both strands
+# (none)
+#
+# ----- prediction on sequence number 208 (length = 93, name = 415) -----
+#
+# Predicted genes for sequence number 208 on both strands
+# (none)
+#
+# ----- prediction on sequence number 209 (length = 94, name = 417) -----
+#
+# Predicted genes for sequence number 209 on both strands
+# (none)
+#
+# ----- prediction on sequence number 210 (length = 96, name = 419) -----
+#
+# Predicted genes for sequence number 210 on both strands
+# (none)
+#
+# ----- prediction on sequence number 211 (length = 98, name = 421) -----
+#
+# Predicted genes for sequence number 211 on both strands
+# (none)
+#
+# ----- prediction on sequence number 212 (length = 100, name = 423) -----
+#
+# Predicted genes for sequence number 212 on both strands
+# (none)
+#
+# ----- prediction on sequence number 213 (length = 100, name = 425) -----
+#
+# Predicted genes for sequence number 213 on both strands
+# (none)
+#
+# ----- prediction on sequence number 214 (length = 102, name = 427) -----
+#
+# Predicted genes for sequence number 214 on both strands
+# (none)
+#
+# ----- prediction on sequence number 215 (length = 103, name = 429) -----
+#
+# Predicted genes for sequence number 215 on both strands
+# (none)
+#
+# ----- prediction on sequence number 216 (length = 104, name = 431) -----
+#
+# Predicted genes for sequence number 216 on both strands
+# (none)
+#
+# ----- prediction on sequence number 217 (length = 105, name = 433) -----
+#
+# Predicted genes for sequence number 217 on both strands
+# (none)
+#
+# ----- prediction on sequence number 218 (length = 111, name = 435) -----
+#
+# Predicted genes for sequence number 218 on both strands
+# (none)
+#
+# ----- prediction on sequence number 219 (length = 112, name = 437) -----
+#
+# Predicted genes for sequence number 219 on both strands
+# (none)
+#
+# ----- prediction on sequence number 220 (length = 114, name = 439) -----
+#
+# Predicted genes for sequence number 220 on both strands
+# (none)
+#
+# ----- prediction on sequence number 221 (length = 115, name = 441) -----
+#
+# Predicted genes for sequence number 221 on both strands
+# (none)
+#
+# ----- prediction on sequence number 222 (length = 117, name = 443) -----
+#
+# Predicted genes for sequence number 222 on both strands
+# (none)
+#
+# ----- prediction on sequence number 223 (length = 120, name = 445) -----
+#
+# Predicted genes for sequence number 223 on both strands
+# (none)
+#
+# ----- prediction on sequence number 224 (length = 127, name = 447) -----
+#
+# Predicted genes for sequence number 224 on both strands
+# (none)
+#
+# ----- prediction on sequence number 225 (length = 134, name = 449) -----
+#
+# Predicted genes for sequence number 225 on both strands
+# (none)
+#
+# ----- prediction on sequence number 226 (length = 134, name = 451) -----
+#
+# Predicted genes for sequence number 226 on both strands
+# (none)
+#
+# ----- prediction on sequence number 227 (length = 142, name = 453) -----
+#
+# Predicted genes for sequence number 227 on both strands
+# (none)
+#
+# ----- prediction on sequence number 228 (length = 143, name = 455) -----
+#
+# Predicted genes for sequence number 228 on both strands
+# (none)
+#
+# ----- prediction on sequence number 229 (length = 146, name = 457) -----
+#
+# Predicted genes for sequence number 229 on both strands
+# (none)
+#
+# ----- prediction on sequence number 230 (length = 149, name = 459) -----
+#
+# Predicted genes for sequence number 230 on both strands
+# (none)
+#
+# ----- prediction on sequence number 231 (length = 157, name = 461) -----
+#
+# Predicted genes for sequence number 231 on both strands
+# (none)
+#
+# ----- prediction on sequence number 232 (length = 159, name = 463) -----
+#
+# Predicted genes for sequence number 232 on both strands
+# (none)
+#
+# ----- prediction on sequence number 233 (length = 163, name = 465) -----
+#
+# Predicted genes for sequence number 233 on both strands
+# (none)
+#
+# ----- prediction on sequence number 234 (length = 167, name = 467) -----
+#
+# Predicted genes for sequence number 234 on both strands
+# (none)
+#
+# ----- prediction on sequence number 235 (length = 168, name = 469) -----
+#
+# Predicted genes for sequence number 235 on both strands
+# (none)
+#
+# ----- prediction on sequence number 236 (length = 174, name = 471) -----
+#
+# Predicted genes for sequence number 236 on both strands
+# (none)
+#
+# ----- prediction on sequence number 237 (length = 178, name = 473) -----
+#
+# Predicted genes for sequence number 237 on both strands
+# (none)
+#
+# ----- prediction on sequence number 238 (length = 178, name = 475) -----
+#
+# Predicted genes for sequence number 238 on both strands
+# (none)
+#
+# ----- prediction on sequence number 239 (length = 181, name = 477) -----
+#
+# Predicted genes for sequence number 239 on both strands
+# (none)
+#
+# ----- prediction on sequence number 240 (length = 185, name = 479) -----
+#
+# Predicted genes for sequence number 240 on both strands
+# (none)
+#
+# ----- prediction on sequence number 241 (length = 186, name = 481) -----
+#
+# Predicted genes for sequence number 241 on both strands
+# (none)
+#
+# ----- prediction on sequence number 242 (length = 208, name = 483) -----
+#
+# Predicted genes for sequence number 242 on both strands
+# (none)
+#
+# ----- prediction on sequence number 243 (length = 211, name = 485) -----
+#
+# Predicted genes for sequence number 243 on both strands
+# (none)
+#
+# ----- prediction on sequence number 244 (length = 223, name = 487) -----
+#
+# Predicted genes for sequence number 244 on both strands
+# (none)
+#
+# ----- prediction on sequence number 245 (length = 228, name = 489) -----
+#
+# Predicted genes for sequence number 245 on both strands
+# (none)
+#
+# ----- prediction on sequence number 246 (length = 230, name = 491) -----
+#
+# Predicted genes for sequence number 246 on both strands
+# (none)
+#
+# ----- prediction on sequence number 247 (length = 230, name = 493) -----
+#
+# Predicted genes for sequence number 247 on both strands
+# (none)
+#
+# ----- prediction on sequence number 248 (length = 234, name = 495) -----
+#
+# Predicted genes for sequence number 248 on both strands
+# (none)
+#
+# ----- prediction on sequence number 249 (length = 253, name = 497) -----
+#
+# Predicted genes for sequence number 249 on both strands
+# (none)
+#
+# ----- prediction on sequence number 250 (length = 258, name = 499) -----
+#
+# Predicted genes for sequence number 250 on both strands
+# (none)
+#
+# ----- prediction on sequence number 251 (length = 259, name = 501) -----
+#
+# Predicted genes for sequence number 251 on both strands
+# (none)
+#
+# ----- prediction on sequence number 252 (length = 265, name = 503) -----
+#
+# Predicted genes for sequence number 252 on both strands
+# (none)
+#
+# ----- prediction on sequence number 253 (length = 266, name = 505) -----
+#
+# Predicted genes for sequence number 253 on both strands
+# (none)
+#
+# ----- prediction on sequence number 254 (length = 276, name = 507) -----
+#
+# Predicted genes for sequence number 254 on both strands
+# (none)
+#
+# ----- prediction on sequence number 255 (length = 276, name = 509) -----
+#
+# Predicted genes for sequence number 255 on both strands
+# (none)
+#
+# ----- prediction on sequence number 256 (length = 290, name = 511) -----
+#
+# Predicted genes for sequence number 256 on both strands
+# (none)
+#
+# ----- prediction on sequence number 257 (length = 312, name = 513) -----
+#
+# Predicted genes for sequence number 257 on both strands
+# (none)
+#
+# ----- prediction on sequence number 258 (length = 320, name = 515) -----
+#
+# Predicted genes for sequence number 258 on both strands
+# (none)
+#
+# ----- prediction on sequence number 259 (length = 333, name = 517) -----
+#
+# Predicted genes for sequence number 259 on both strands
+# (none)
+#
+# ----- prediction on sequence number 260 (length = 344, name = 519) -----
+#
+# Predicted genes for sequence number 260 on both strands
+# (none)
+#
+# ----- prediction on sequence number 261 (length = 354, name = 521) -----
+#
+# Predicted genes for sequence number 261 on both strands
+# (none)
+#
+# ----- prediction on sequence number 262 (length = 357, name = 523) -----
+#
+# Predicted genes for sequence number 262 on both strands
+# (none)
+#
+# ----- prediction on sequence number 263 (length = 358, name = 525) -----
+#
+# Predicted genes for sequence number 263 on both strands
+# (none)
+#
+# ----- prediction on sequence number 264 (length = 363, name = 527) -----
+#
+# Predicted genes for sequence number 264 on both strands
+# (none)
+#
+# ----- prediction on sequence number 265 (length = 364, name = 529) -----
+#
+# Predicted genes for sequence number 265 on both strands
+# (none)
+#
+# ----- prediction on sequence number 266 (length = 365, name = 531) -----
+#
+# Predicted genes for sequence number 266 on both strands
+# (none)
+#
+# ----- prediction on sequence number 267 (length = 373, name = 533) -----
+#
+# Predicted genes for sequence number 267 on both strands
+# (none)
+#
+# ----- prediction on sequence number 268 (length = 374, name = 535) -----
+#
+# Predicted genes for sequence number 268 on both strands
+# (none)
+#
+# ----- prediction on sequence number 269 (length = 375, name = 537) -----
+#
+# Predicted genes for sequence number 269 on both strands
+# (none)
+#
+# ----- prediction on sequence number 270 (length = 387, name = 539) -----
+#
+# Predicted genes for sequence number 270 on both strands
+# (none)
+#
+# ----- prediction on sequence number 271 (length = 409, name = 541) -----
+#
+# Predicted genes for sequence number 271 on both strands
+# (none)
+#
+# ----- prediction on sequence number 272 (length = 418, name = 543) -----
+#
+# Predicted genes for sequence number 272 on both strands
+# (none)
+#
+# ----- prediction on sequence number 273 (length = 419, name = 545) -----
+#
+# Predicted genes for sequence number 273 on both strands
+# (none)
+#
+# ----- prediction on sequence number 274 (length = 422, name = 547) -----
+#
+# Predicted genes for sequence number 274 on both strands
+# (none)
+#
+# ----- prediction on sequence number 275 (length = 425, name = 549) -----
+#
+# Predicted genes for sequence number 275 on both strands
+# (none)
+#
+# ----- prediction on sequence number 276 (length = 446, name = 551) -----
+#
+# Predicted genes for sequence number 276 on both strands
+# (none)
+#
+# ----- prediction on sequence number 277 (length = 476, name = 553) -----
+#
+# Predicted genes for sequence number 277 on both strands
+# (none)
+#
+# ----- prediction on sequence number 278 (length = 478, name = 555) -----
+#
+# Predicted genes for sequence number 278 on both strands
+# (none)
+#
+# ----- prediction on sequence number 279 (length = 482, name = 557) -----
+#
+# Predicted genes for sequence number 279 on both strands
+# (none)
+#
+# ----- prediction on sequence number 280 (length = 482, name = 559) -----
+#
+# Predicted genes for sequence number 280 on both strands
+# (none)
+#
+# ----- prediction on sequence number 281 (length = 484, name = 561) -----
+#
+# Predicted genes for sequence number 281 on both strands
+# (none)
+#
+# ----- prediction on sequence number 282 (length = 491, name = 563) -----
+#
+# Predicted genes for sequence number 282 on both strands
+# (none)
+#
+# ----- prediction on sequence number 283 (length = 493, name = 565) -----
+#
+# Predicted genes for sequence number 283 on both strands
+# (none)
+#
+# ----- prediction on sequence number 284 (length = 495, name = 567) -----
+#
+# Predicted genes for sequence number 284 on both strands
+# (none)
+#
+# ----- prediction on sequence number 285 (length = 498, name = 569) -----
+#
+# Predicted genes for sequence number 285 on both strands
+# (none)
+#
+# ----- prediction on sequence number 286 (length = 505, name = 571) -----
+#
+# Predicted genes for sequence number 286 on both strands
+# (none)
+#
+# ----- prediction on sequence number 287 (length = 521, name = 573) -----
+#
+# Predicted genes for sequence number 287 on both strands
+# (none)
+#
+# ----- prediction on sequence number 288 (length = 527, name = 575) -----
+#
+# Predicted genes for sequence number 288 on both strands
+# (none)
+#
+# ----- prediction on sequence number 289 (length = 530, name = 577) -----
+#
+# Predicted genes for sequence number 289 on both strands
+# (none)
+#
+# ----- prediction on sequence number 290 (length = 545, name = 579) -----
+#
+# Predicted genes for sequence number 290 on both strands
+# (none)
+#
+# ----- prediction on sequence number 291 (length = 558, name = 581) -----
+#
+# Predicted genes for sequence number 291 on both strands
+# (none)
+#
+# ----- prediction on sequence number 292 (length = 566, name = 583) -----
+#
+# Predicted genes for sequence number 292 on both strands
+# (none)
+#
+# ----- prediction on sequence number 293 (length = 576, name = 585) -----
+#
+# Predicted genes for sequence number 293 on both strands
+# (none)
+#
+# ----- prediction on sequence number 294 (length = 594, name = 587) -----
+#
+# Predicted genes for sequence number 294 on both strands
+# (none)
+#
+# ----- prediction on sequence number 295 (length = 594, name = 589) -----
+#
+# Predicted genes for sequence number 295 on both strands
+# (none)
+#
+# ----- prediction on sequence number 296 (length = 637, name = 591) -----
+#
+# Predicted genes for sequence number 296 on both strands
+# (none)
+#
+# ----- prediction on sequence number 297 (length = 638, name = 593) -----
+#
+# Predicted genes for sequence number 297 on both strands
+# (none)
+#
+# ----- prediction on sequence number 298 (length = 640, name = 595) -----
+#
+# Predicted genes for sequence number 298 on both strands
+# (none)
+#
+# ----- prediction on sequence number 299 (length = 641, name = 597) -----
+#
+# Predicted genes for sequence number 299 on both strands
+# (none)
+#
+# ----- prediction on sequence number 300 (length = 656, name = 599) -----
+#
+# Predicted genes for sequence number 300 on both strands
+# (none)
+#
+# ----- prediction on sequence number 301 (length = 658, name = 601) -----
+#
+# Predicted genes for sequence number 301 on both strands
+# (none)
+#
+# ----- prediction on sequence number 302 (length = 661, name = 603) -----
+#
+# Predicted genes for sequence number 302 on both strands
+# (none)
+#
+# ----- prediction on sequence number 303 (length = 665, name = 605) -----
+#
+# Predicted genes for sequence number 303 on both strands
+# (none)
+#
+# ----- prediction on sequence number 304 (length = 682, name = 607) -----
+#
+# Predicted genes for sequence number 304 on both strands
+# (none)
+#
+# ----- prediction on sequence number 305 (length = 684, name = 609) -----
+#
+# Predicted genes for sequence number 305 on both strands
+# (none)
+#
+# ----- prediction on sequence number 306 (length = 707, name = 611) -----
+#
+# Predicted genes for sequence number 306 on both strands
+# (none)
+#
+# ----- prediction on sequence number 307 (length = 712, name = 613) -----
+#
+# Predicted genes for sequence number 307 on both strands
+# (none)
+#
+# ----- prediction on sequence number 308 (length = 717, name = 615) -----
+#
+# Predicted genes for sequence number 308 on both strands
+# (none)
+#
+# ----- prediction on sequence number 309 (length = 726, name = 617) -----
+#
+# Predicted genes for sequence number 309 on both strands
+# (none)
+#
+# ----- prediction on sequence number 310 (length = 783, name = 619) -----
+#
+# Predicted genes for sequence number 310 on both strands
+# (none)
+#
+# ----- prediction on sequence number 311 (length = 784, name = 621) -----
+#
+# Predicted genes for sequence number 311 on both strands
+# (none)
+#
+# ----- prediction on sequence number 312 (length = 784, name = 623) -----
+#
+# Predicted genes for sequence number 312 on both strands
+# (none)
+#
+# ----- prediction on sequence number 313 (length = 789, name = 625) -----
+#
+# Predicted genes for sequence number 313 on both strands
+# (none)
+#
+# ----- prediction on sequence number 314 (length = 792, name = 627) -----
+#
+# Predicted genes for sequence number 314 on both strands
+# (none)
+#
+# ----- prediction on sequence number 315 (length = 817, name = 629) -----
+#
+# Predicted genes for sequence number 315 on both strands
+# (none)
+#
+# ----- prediction on sequence number 316 (length = 821, name = 631) -----
+#
+# Predicted genes for sequence number 316 on both strands
+# (none)
+#
+# ----- prediction on sequence number 317 (length = 854, name = 633) -----
+#
+# Predicted genes for sequence number 317 on both strands
+# (none)
+#
+# ----- prediction on sequence number 318 (length = 861, name = 635) -----
+#
+# Predicted genes for sequence number 318 on both strands
+# (none)
+#
+# ----- prediction on sequence number 319 (length = 873, name = 637) -----
+#
+# Predicted genes for sequence number 319 on both strands
+# (none)
+#
+# ----- prediction on sequence number 320 (length = 884, name = 639) -----
+#
+# Predicted genes for sequence number 320 on both strands
+# (none)
+#
+# ----- prediction on sequence number 321 (length = 888, name = 641) -----
+#
+# Predicted genes for sequence number 321 on both strands
+# (none)
+#
+# ----- prediction on sequence number 322 (length = 940, name = 643) -----
+#
+# Predicted genes for sequence number 322 on both strands
+# (none)
+#
+# ----- prediction on sequence number 323 (length = 978, name = 645) -----
+#
+# Predicted genes for sequence number 323 on both strands
+# (none)
+#
+# ----- prediction on sequence number 324 (length = 1074, name = 647) -----
+#
+# Predicted genes for sequence number 324 on both strands
+# (none)
+#
+# ----- prediction on sequence number 325 (length = 1090, name = 649) -----
+#
+# Predicted genes for sequence number 325 on both strands
+# (none)
+#
+# ----- prediction on sequence number 326 (length = 1106, name = 651) -----
+#
+# Predicted genes for sequence number 326 on both strands
+# (none)
+#
+# ----- prediction on sequence number 327 (length = 1110, name = 653) -----
+#
+# Predicted genes for sequence number 327 on both strands
+# (none)
+#
+# ----- prediction on sequence number 328 (length = 1116, name = 655) -----
+#
+# Predicted genes for sequence number 328 on both strands
+# (none)
+#
+# ----- prediction on sequence number 329 (length = 1172, name = 657) -----
+#
+# Predicted genes for sequence number 329 on both strands
+# (none)
+#
+# ----- prediction on sequence number 330 (length = 1187, name = 659) -----
+#
+# Predicted genes for sequence number 330 on both strands
+# (none)
+#
+# ----- prediction on sequence number 331 (length = 1274, name = 661) -----
+#
+# Predicted genes for sequence number 331 on both strands
+# start gene g1
+661	AUGUSTUS	gene	1	455	1	-	.	g1
+661	AUGUSTUS	transcript	1	455	.	-	.	g1.t1
+661	AUGUSTUS	CDS	1	287	.	-	0	transcript_id "g1.t1"; gene_id "g1";
+661	AUGUSTUS	exon	1	455	.	-	.	transcript_id "g1.t1"; gene_id "g1";
+661	AUGUSTUS	start_codon	285	287	.	-	0	transcript_id "g1.t1"; gene_id "g1";
+661	AUGUSTUS	tss	455	455	.	-	.	transcript_id "g1.t1"; gene_id "g1";
+# protein sequence = [MIAVGVQSLLWELDSYPLPPPFRARSRTLPWCLPQLCLRLDLPQGRKDSVPPEALHCQFVAVNSEHPSYDVVYTDGSL
+# VTGRVGFAYVHGDHVEQ]
+# Evidence for and against this transcript:
+# % of transcript supported by hints (any source): 0
+# CDS exons: 0/1
+# CDS introns: 0/0
+# 5'UTR exons and introns: 0/1
+# 3'UTR exons and introns: 0/0
+# hint groups fully obeyed: 0
+# incompatible hint groups: 0
+# end gene g1
+###
+#
+# ----- prediction on sequence number 332 (length = 1284, name = 663) -----
+#
+# Predicted genes for sequence number 332 on both strands
+# start gene g2
+663	AUGUSTUS	gene	1	1097	1	+	.	g2
+663	AUGUSTUS	transcript	1	1097	.	+	.	g2.t1
+663	AUGUSTUS	CDS	96	307	.	+	2	transcript_id "g2.t1"; gene_id "g2";
+663	AUGUSTUS	exon	96	307	.	+	.	transcript_id "g2.t1"; gene_id "g2";
+663	AUGUSTUS	CDS	791	883	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+663	AUGUSTUS	exon	791	1097	.	+	.	transcript_id "g2.t1"; gene_id "g2";
+663	AUGUSTUS	stop_codon	881	883	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+663	AUGUSTUS	tts	1097	1097	.	+	.	transcript_id "g2.t1"; gene_id "g2";
+# protein sequence = [ETTVDELAAEKLCANSPVSDGEEEDEEEEESVPFPPVMRQLQQWTYYKGTFSSVEGSEKTLETIYELKKQEHASECVQ
+# YVGEEEEMDRILTSRAKRTRNN]
+# Evidence for and against this transcript:
+# % of transcript supported by hints (any source): 0
+# CDS exons: 0/2
+# CDS introns: 0/2
+# 5'UTR exons and introns: 0/0
+# 3'UTR exons and introns: 0/1
+# hint groups fully obeyed: 0
+# incompatible hint groups: 0
+# end gene g2
+###
+#
+# ----- prediction on sequence number 333 (length = 1324, name = 665) -----
+#
+# Predicted genes for sequence number 333 on both strands
+# (none)
+#
+# ----- prediction on sequence number 334 (length = 1373, name = 667) -----
+#
+# Predicted genes for sequence number 334 on both strands
+# (none)
+#
+# ----- prediction on sequence number 335 (length = 1374, name = 669) -----
+#
+# Predicted genes for sequence number 335 on both strands
+# (none)
+#
+# ----- prediction on sequence number 336 (length = 1405, name = 671) -----
+#
+# Predicted genes for sequence number 336 on both strands
+# (none)
+#
+# ----- prediction on sequence number 337 (length = 1431, name = 673) -----
+#
+# Predicted genes for sequence number 337 on both strands
+# (none)
+#
+# ----- prediction on sequence number 338 (length = 1463, name = 675) -----
+#
+# Predicted genes for sequence number 338 on both strands
+# (none)
+#
+# ----- prediction on sequence number 339 (length = 1564, name = 677) -----
+#
+# Predicted genes for sequence number 339 on both strands
+# (none)
+#
+# ----- prediction on sequence number 340 (length = 1585, name = 679) -----
+#
+# Predicted genes for sequence number 340 on both strands
+# (none)
+#
+# ----- prediction on sequence number 341 (length = 1689, name = 681) -----
+#
+# Predicted genes for sequence number 341 on both strands
+# (none)
+#
+# ----- prediction on sequence number 342 (length = 1726, name = 683) -----
+#
+# Predicted genes for sequence number 342 on both strands
+# start gene g3
+683	AUGUSTUS	gene	1	1726	1	-	.	g3
+683	AUGUSTUS	transcript	1	1726	.	-	.	g3.t1
+683	AUGUSTUS	tts	1	1	.	-	.	transcript_id "g3.t1"; gene_id "g3";
+683	AUGUSTUS	exon	1	883	.	-	.	transcript_id "g3.t1"; gene_id "g3";
+683	AUGUSTUS	stop_codon	789	791	.	-	0	transcript_id "g3.t1"; gene_id "g3";
+683	AUGUSTUS	CDS	789	883	.	-	2	transcript_id "g3.t1"; gene_id "g3";
+# protein sequence = [FVVKPKIRFSANGKSPVFIYQFKINTYRNS]
+# Evidence for and against this transcript:
+# % of transcript supported by hints (any source): 0
+# CDS exons: 0/1
+# CDS introns: 0/1
+# 5'UTR exons and introns: 0/0
+# 3'UTR exons and introns: 0/1
+# hint groups fully obeyed: 0
+# incompatible hint groups: 0
+# end gene g3
+###
+#
+# ----- prediction on sequence number 343 (length = 1744, name = 685) -----
+#
+# Predicted genes for sequence number 343 on both strands
+# start gene g4
+685	AUGUSTUS	gene	1	485	1	-	.	g4
+685	AUGUSTUS	transcript	1	485	.	-	.	g4.t1
+685	AUGUSTUS	CDS	128	208	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+685	AUGUSTUS	exon	128	485	.	-	.	transcript_id "g4.t1"; gene_id "g4";
+685	AUGUSTUS	start_codon	206	208	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+685	AUGUSTUS	tss	485	485	.	-	.	transcript_id "g4.t1"; gene_id "g4";
+# protein sequence = [MDRKDGGTSKANGMRTDTVICRIYSVK]
+# Evidence for and against this transcript:
+# % of transcript supported by hints (any source): 0
+# CDS exons: 0/1
+# CDS introns: 0/1
+# 5'UTR exons and introns: 0/1
+# 3'UTR exons and introns: 0/0
+# hint groups fully obeyed: 0
+# incompatible hint groups: 0
+# end gene g4
+###
+#
+# ----- prediction on sequence number 344 (length = 1779, name = 687) -----
+#
+# Predicted genes for sequence number 344 on both strands
+# (none)
+#
+# ----- prediction on sequence number 345 (length = 1779, name = 689) -----
+#
+# Predicted genes for sequence number 345 on both strands
+# (none)
+#
+# ----- prediction on sequence number 346 (length = 1789, name = 691) -----
+#
+# Predicted genes for sequence number 346 on both strands
+# (none)
+#
+# ----- prediction on sequence number 347 (length = 1800, name = 693) -----
+#
+# Predicted genes for sequence number 347 on both strands
+# (none)
+#
+# ----- prediction on sequence number 348 (length = 2056, name = 695) -----
+#
+# Predicted genes for sequence number 348 on both strands
+# (none)
+#
+# ----- prediction on sequence number 349 (length = 2141, name = 697) -----
+#
+# Predicted genes for sequence number 349 on both strands
+# (none)
+#
+# ----- prediction on sequence number 350 (length = 2252, name = 699) -----
+#
+# Predicted genes for sequence number 350 on both strands
+# (none)
+#
+# ----- prediction on sequence number 351 (length = 2579, name = 701) -----
+#
+# Predicted genes for sequence number 351 on both strands
+# (none)
+#
+# ----- prediction on sequence number 352 (length = 2768, name = 703) -----
+#
+# Predicted genes for sequence number 352 on both strands
+# start gene g5
+703	AUGUSTUS	gene	1	1745	1	-	.	g5
+703	AUGUSTUS	transcript	1	1745	.	-	.	g5.t1
+703	AUGUSTUS	tts	1	1	.	-	.	transcript_id "g5.t1"; gene_id "g5";
+703	AUGUSTUS	exon	1	1745	.	-	.	transcript_id "g5.t1"; gene_id "g5";
+703	AUGUSTUS	stop_codon	766	768	.	-	0	transcript_id "g5.t1"; gene_id "g5";
+703	AUGUSTUS	CDS	766	1179	.	-	0	transcript_id "g5.t1"; gene_id "g5";
+703	AUGUSTUS	start_codon	1177	1179	.	-	0	transcript_id "g5.t1"; gene_id "g5";
+703	AUGUSTUS	tss	1745	1745	.	-	.	transcript_id "g5.t1"; gene_id "g5";
+# protein sequence = [MQGIKVTKQILYEGANKEYKVIKPPVFRIFYASLIQKPISKVGASTQTPPFFPLSTTSKCTCTCTCQSQISKDTAIQA
+# DPTVQHEVMPTGIVEKAPQKQGAPTPPFLQHFQRSDPIKIRNVQSSHSHRPQCMSLWWP]
+# Evidence for and against this transcript:
+# % of transcript supported by hints (any source): 0
+# CDS exons: 0/1
+# CDS introns: 0/0
+# 5'UTR exons and introns: 0/1
+# 3'UTR exons and introns: 0/1
+# hint groups fully obeyed: 0
+# incompatible hint groups: 0
+# end gene g5
+###
+#
+# ----- prediction on sequence number 353 (length = 4196, name = 705) -----
+#
+# Predicted genes for sequence number 353 on both strands
+# (none)
+# command line:
+# augustus --species=human --UTR=on myasmb_s002_2.contig
